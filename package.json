@@ -1,0 +1,17 @@
+{
+  "name": "สมัครfox888",
+  "main": "fox888-th",
+  "theme": "syntax",
+  "version": "2.89.0",
+  "description": "fox888 สล็อต ✔️ ให้บริการเดิมพันออนไลน์ (มีเครดิตฟรี) ให้บริการ pgslot เกมยิงปลา joker แทงหวย พร้อมแอดมินดูแล 24 ชั่วโมง",
+  "keywords": [
+    "fox888",
+    "สล็อต",
+    "หวยออนไลน์"
+  ],
+  "repository": "https://github.com/seoexpert111/masurebet",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
